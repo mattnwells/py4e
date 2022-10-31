@@ -1,2 +1,2 @@
 # py4e-exercises
-PY4E course exercises
+Solutions to [PY4E](https://www.py4e.com) exercises (Python for Everybody). 
