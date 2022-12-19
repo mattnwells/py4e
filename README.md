@@ -1,7 +1,7 @@
 # University of Michigan - Python for Everybody (py4e)
 Instructor: Dr. Charles Severance
 
-This repo contains the solutions to the [py4e](https://www.py4e.com) exercise and autograded assignments.
+This repo contains solutions to the [py4e](https://www.py4e.com) exercises and autograded assignments.
 
 Languages and tools used:
 * Python3
