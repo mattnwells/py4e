@@ -1,8 +1,13 @@
 # University of Michigan - Python for Everybody (py4e)
+Instructor: Dr. Charles Severance
 
-Dr. Charles Severance
+This repo contains the solutions to the [py4e](https://www.py4e.com) exercise and autograded assignments.
 
-Solutions to [py4e](https://www.py4e.com) exercises.
+Languages and tools used:
+* Python3
+* Terminal (Mac)
+* VSCode
+* SQLite (DB Browser)
 
 Topics covered:
 * Variables, Expressions, and Statments
